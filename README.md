@@ -57,3 +57,4 @@ with timings fully consistent with modern CPU architecture limits. The profiling
 QPC with batched runs and full result consumption produces accurate, stable measurements.
 
 <img width="1116" height="625" alt="image" src="https://github.com/user-attachments/assets/2d960dfa-e305-4c56-b9da-6ff133477a7d" />
+<img width="1114" height="618" alt="image" src="https://github.com/user-attachments/assets/5c03c02f-3878-4c8e-97a4-fd93b77c8a53" />
