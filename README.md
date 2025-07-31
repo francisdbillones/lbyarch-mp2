@@ -1,6 +1,12 @@
 compute_acceleration() – performance benchmark
 ----------------------------------------------
 
+## NOTE:
+-------------
+In order to run `main.c` in Visual Studio, you need to comment out all the code in `performance_check.c`, and vice versa if you are running `performance_check.c`.
+
+## Video: <https://drive.google.com/file/d/1cmx8mbiDpA-_gnSqFtw304cdx3YOkAqp/view?usp=sharing>
+
 Description:
 -------------
 This benchmark measures the performance of the custom x86-64 assembly implementation
