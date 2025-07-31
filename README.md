@@ -1,5 +1,7 @@
 compute_acceleration() – performance benchmark
 ----------------------------------------------
+Billones, Cabatay
+S13A Group 2
 
 ## NOTE:
 -------------
